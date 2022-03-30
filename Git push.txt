@@ -1,0 +1,8 @@
+git init
+
+git add .gitignore
+git add .
+git commit -m "First commit"
+git branch -M main
+git remote add origin git@github.com:SilentSammy/SnackbarBug.git
+git push -u origin main
